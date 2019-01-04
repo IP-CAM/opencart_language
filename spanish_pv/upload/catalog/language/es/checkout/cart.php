@@ -6,7 +6,7 @@ $_['heading_title']            = 'Mi cesta';
 $_['text_success']             = '¡Has añadido <a href="%s">%s</a> a tu <a href="%s">cesta</a>!';
 $_['text_remove']              = 'Eliminado: ¡Has modificado tu compra!';
 $_['text_login']               = '¡Ojo! Necesitas <a href="%s">acceder</a> o <a href="%s">crear una cuenta</a> para ver los precios.';
-$_['text_items']               = '%s producto(s) - %s';
+$_['text_items']               = '%s';
 $_['text_points']              = 'Puntos de Fidelidad: %s';
 $_['text_next']                = '¿Qué quieres hacer?';
 $_['text_next_choice']         = 'Selecciona si tienes un código de descuento o puntos de fidelidad que desees utilizar, o si quieres calcular el coste del envío.';
