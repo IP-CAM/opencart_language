@@ -1,0 +1,15 @@
+<?php
+// Heading
+$_['heading_title']    = 'Seguimiento de afiliación';
+
+// Text
+$_['text_account']     = 'Cuenta';
+$_['text_description'] = 'Para cerciorarse de que estás cobrando por cada referencia que nos envías, necesitamos seguir la referencia colocando un código de seguimiento en la URL que apunta hacia nosotros. Puedes utilizar las herramientas siguientes para generar vínculos al %s sitio web.';
+
+// Entry
+$_['entry_code']       = 'Su código de seguimiento';
+$_['entry_generator']  = 'Generador de vínculos de seguimiento';
+$_['entry_link']       = 'Enlace de seguimiento';
+
+// Help
+$_['help_generator']   = 'Escribe el nombre de un producto que deseas enlazar';
