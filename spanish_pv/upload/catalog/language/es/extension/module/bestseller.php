@@ -3,4 +3,4 @@
 $_['heading_title'] = 'Top ventas';
 
 // Text
-$_['text_tax']      = 'Sin Impuestos:';
+$_['text_tax']      = 'Sin IVA:';
