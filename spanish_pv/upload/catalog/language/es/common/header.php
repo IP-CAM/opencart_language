@@ -14,3 +14,4 @@ $_['text_logout']        = 'Salir';
 $_['text_checkout']      = 'Pagar';
 $_['text_search']        = 'Buscar';
 $_['text_all']           = 'Ver Todo';
+$_['call_text']          = 'Llámanos';
