@@ -5,7 +5,7 @@ $_['heading_title']  = 'Restablecer contraseña';
 // Text
 $_['text_account']   = 'Cuenta';
 $_['text_password']  = 'Introduce la nueva contraseña que deseas utilizar.';
-$_['text_success']   = 'Perfecto: Tu contraseña ha sido actualizada.';
+$_['text_success']   = '¡Hecho! Tu contraseña ha sido actualizada.';
 
 // Entry
 $_['entry_password'] = 'Contraseña';
