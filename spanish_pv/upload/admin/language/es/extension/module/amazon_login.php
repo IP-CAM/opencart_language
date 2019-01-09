@@ -3,6 +3,7 @@
 $_['heading_title'] = 'Acceso con Amazon';
 
 //Text
+$_['text_module']           = 'Modulos';
 $_['text_extension']      = 'Extensiones';
 $_['text_success'] = 'Correcto: Ha modificado el m&oacute;dulo de acceso con Amazon.';
 $_['text_content_top'] = 'Contenido Arriba';

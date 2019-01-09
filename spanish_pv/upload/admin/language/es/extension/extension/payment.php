@@ -5,7 +5,7 @@ $_['heading_title']     = 'M&eacute;todos de Pago';
 // Text
 $_['text_success']      = 'Correcto: Ha modificado m&eacute;todos de pagos.';
 $_['text_list']         = 'Listado de m&eacute;todos de pago';
-$_['text_recommended']  = 'Pagos - Soluciones recomendadas';
+
 
 // Column
 $_['column_name']       = 'M&eacute;todo de pago';
