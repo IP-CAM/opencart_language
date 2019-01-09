@@ -8,7 +8,7 @@ $_['text_instock']  = 'En Stock';
 $_['text_wishlist'] = 'Favoritos (%s)';
 $_['text_login']    = '¡Necesitas <a href="%s">acceder</a> o <a href="%s">crear una cuenta en nuestra tienda</a> para guardar <a href="%s">%s</a> en <a href="%s"> Favoritos</a>!';
 $_['text_success']  = 'Listo: ¡Has añadido <a href="%s">%s</a> a <a href="%s">Favoritos</a>!';
-$_['text_remove']   = 'Eliminado: ¡Has modificado favoritos!';
+$_['text_remove']   = 'Eliminado: Se ha modificado tu lista de favoritos!';
 $_['text_empty']    = 'Tu lista de favoritos está vacía.';
 
 // Column
