@@ -4,11 +4,11 @@ $_['heading_title'] = 'Usar vales regalo';
 
 // Text
 $_['text_voucher']  = 'Vale Regalo (%s)';
-$_['text_success']  = 'Correcto: Su vale regalo ha sido aplicado correctamente.';
+$_['text_success']  = '¡Hecho! Tu vale regalo ha sido aplicado correctamente.';
 
 // Entry
-$_['entry_voucher'] = '¡Introduzca el código de su vale regalo aquí';
+$_['entry_voucher'] = '¡Introduce el código de tu vale regalo aquí';
 
 // Error
-$_['error_voucher'] = 'Atención: Este código de vale regalo no es válido o el saldo ya se ha agotado.';
-$_['error_empty']   = 'Atención: Por favor, introduzca un código de vale regalo.';
+$_['error_voucher'] = '¡Ojo! Este código de vale regalo no es válido o el saldo ya se ha agotado.';
+$_['error_empty']   = 'Por favor, introduce un código de vale regalo válido.';
