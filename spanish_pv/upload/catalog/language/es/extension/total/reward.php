@@ -3,8 +3,8 @@
 $_['heading_title'] = 'Usar puntos de fidelidad (Disponible %s)';
 
 // Text
-$_['text_reward']   = 'Puntos de fidelidad(%s):';
-$_['text_order_id'] = 'ID Pedido: #%s';
+$_['text_reward']   = 'Puntos de fidelidad (%s):';
+$_['text_order_id'] = 'ID Pedido:';
 $_['text_success']  = 'Correcto: Tus puntos de fidelidad han sido aplicados.';
 
 // Entry
